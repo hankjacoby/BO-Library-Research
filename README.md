@@ -82,6 +82,8 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 - Clean and simple tutorials for onboarding.
 
+- Supports DOE and Cheminformatics. 
+
 ### Cons:
 
 - Could not get ZDT1 to work after extended time troubleshooting the environment.
