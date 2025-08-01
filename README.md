@@ -15,12 +15,12 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 | [`BoFire`](BoFire/) | Structured optimization workflows with BoFire (used in chemical engineering and reaction optimization). |
 | [`Honegumi`](Honegumi/) | A skeletal framework for programmers new to bayesian optimization dependent on LLMs.  |
 | [`MF-OSEMO`](MF-OSEMO/) | A multi-fidelity multi-objective entropy search method. |
-| `MOBOpt` | A generic repository for multi-objective bayesian optimization. |
-| `Papers` | Includes links to papers about each library, and an overview of each benchmark.|
+| [`MOBOpt`](MOBOpt/) | A generic repository for multi-objective bayesian optimization. |
+| [`Papers`](Papers/) | Includes links to papers about each library, and an overview of each benchmark.|
 
 📊 Pros and Cons of each library in this repository
 
-## ✅ Ax
+## [✅ Ax](Ax/)
 
 ### Pros:
 
@@ -40,7 +40,7 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 - Hartmann6 required increasing iterations to achieve accurate performance.
 
-## 🧪 Honegumi
+## [🧪 Honegumi](Honegumi/)
 
 ### Pros:
 
@@ -62,7 +62,7 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 - Would not recommend for serious use due to lack of sophistication.
 
-## 🔥 BoFire
+## [🔥 BoFire](BoFire/)
 
 ### Pros:
 
@@ -82,7 +82,7 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 - Some limitations on debugging complex runs.
 
-## 🌀 MOBOpt
+## [🌀 MOBOpt](MOBOpt/)
 
 ### Pros:
 
@@ -98,7 +98,7 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 - Didn’t explore much more after Prathamesh said he already reviewed it.
 
-## 📉 MF-OSEMO
+## [📉 MF-OSEMO](MF-OSEMO/)
 
 ### Pros:
 
