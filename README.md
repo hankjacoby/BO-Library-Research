@@ -11,10 +11,10 @@ Each folder in this repository is dedicated to a different Bayesian optimization
 
 | Folder | Description |
 |--------|-------------|
-| `Ax` | Examples and notes using Facebook's Ax platform for adaptive experimentation. |
-| `BoFire` | Structured optimization workflows with BoFire (used in chemical engineering and reaction optimization). |
-| `Honegumi` | A skeletal framework for programmers new to bayesian optimization dependent on LLMs.  |
-| `MF-OSEMO` | A multi-fidelity multi-objective entropy search method. |
+| [`Ax`](Ax/) | Examples and notes using Facebook's Ax platform for adaptive experimentation. |
+| [`BoFire`](BoFire/) | Structured optimization workflows with BoFire (used in chemical engineering and reaction optimization). |
+| [`Honegumi`](Honegumi/) | A skeletal framework for programmers new to bayesian optimization dependent on LLMs.  |
+| [`MF-OSEMO`](MF-OSEMO/) | A multi-fidelity multi-objective entropy search method. |
 | `MOBOpt` | A generic repository for multi-objective bayesian optimization. |
 | `Papers` | Includes links to papers about each library, and an overview of each benchmark.|
 
