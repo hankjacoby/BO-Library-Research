@@ -7,7 +7,7 @@ This document lists the academic papers and documentation resources associated w
 ## 📦 Ax
 
 - **Official Docs:** [https://ax.dev](https://ax.dev)
-- **Main Paper:** Miles Olson1, Elizabeth Santorella1, Louis C. Tiao1, Sait Cakmak1, Mia Garrard1,
+- **Main Paper:** Miles Olson, Elizabeth Santorella, Louis C. Tiao, Sait Cakmak, Mia Garrard,
  Samuel Daulton, Zhiyuan Jerry Lin, Sebastian Ament, Bernard Beckerman,
  Eric Onofrey, Paschal Igusti, Cristian Lara, Benjamin Letham, Cesar Cardoso,
  Shiyun Sunny Shen, Andy Chenyuan Lin, Matthew Grange, Elena Kashtelyan,
